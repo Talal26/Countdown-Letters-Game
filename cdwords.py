@@ -10,7 +10,7 @@ with open('cdwords.txt', 'r') as cdwords:
 
 
 #                  123456789
-characters = list('ACESPANK'.lower())
+characters = list('ABCDEFGHI'.lower())
 length = len(characters)
 words = set()
 alphabet = set('abcdefghijklmnopqrstuvwxyz')
