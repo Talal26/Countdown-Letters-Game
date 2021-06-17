@@ -1,4 +1,4 @@
-# Countdown-Letters-Game
+# Countdown-Letters-Game-Solver
 Finds all the possible english words that can be made in the Countdown Letters game
 
 # What is the Countdown Letters game?
