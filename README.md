@@ -6,6 +6,6 @@ Countdown is a popular TV game show in the UK and there are two types of games i
 So I made a python program that takes those 9 letters and looks through a massive list of about 300000 words and prints all the possible words that can be made, sorting them into a list corresponding to the length of the word found.
 
 # Files:
-cdwords.py - program which prints all the possible words that can be made from the letters. The letters themselves can be typed in the 'letters' variable
+[cdwords.py](cdwords.py) - program which prints all the possible words that can be made from the letters. The letters themselves can be typed in the 'letters' variable
 
-cdwords.txt - List of all the words 9 letters or shorter in the English language. The words were taken from the words_alpha.txt file [here](https://github.com/dwyl/english-words).
+[cdwords.txt](cdwords.txt) - List of all the words 9 letters or shorter in the English language. The words were taken from the words_alpha.txt file [here](https://github.com/dwyl/english-words).
