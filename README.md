@@ -7,4 +7,5 @@ So I made a python program that takes those 9 letters and looks through a massiv
 
 # Files:
 cdwords.py - program which prints all the possible words that can be made from the letters. The letters themselves can be typed in the 'letters' variable
+
 cdwords.txt - List of all the words 9 letters or shorter in the English language. The words were taken from the words_alpha.txt file [here](https://github.com/dwyl/english-words).
